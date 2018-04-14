@@ -36,7 +36,7 @@ Thus far the certificates of the following courses with their respective learnin
 Unlike [Cousera](https://www.coursera.org/) and [Edx](https://www.edx.org/), some of [Udacity](https://eu.udacity.com/) courses seems to have expensive taste. I wish I would be taking the following courses:-
  
  - [Natural Language Processing](https://eu.udacity.com/course/natural-language-processing-nanodegree--nd892) (€299) 
- - [Become A Robotics Software Engineer](https://eu.udacity.com/course/robotics-software-engineer--nd209) (€2238). 
+ - [Become A Robotics Software Engineer](https://eu.udacity.com/course/robotics-software-engineer--nd209) (€2398). 
 
 These courses are more practical and have great contents as well, but their price tag act as a disqualifying criterion for some including me!
 
