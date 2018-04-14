@@ -3,10 +3,10 @@ The repository stores my academic certificates which are acquired from Massive O
 Thus far the certificates of the following courses with their respective learning platform are included:-
 ## [Cousera](https://www.coursera.org/)
 ### Completed Courses
-- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
 - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
 - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 ### On-progress
 - [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing/home/assignments)
