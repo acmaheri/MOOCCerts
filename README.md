@@ -40,6 +40,6 @@ Unlike [Cousera](https://www.coursera.org/) and [Edx](https://www.edx.org/), som
 
 These courses are more practical and have great contents as well, but their price tag act as a disqualifying criterion for some including myself.
 
-In case you happen to have information regarding an individual or a company or a funding organization or a foundation that is offering a sponsorship with affordable conditions for taking up an on-line course or specialization, please contact me via ```acmaheri@outlook.com```.
+In the meantime, in case you happen to have information regarding an individual or a company or a funding organization or a foundation that is offering a sponsorship with affordable conditions (I mean with little to no strings attached) for taking up an on-line course or specialization, please contact me via ```acmaheri@outlook.com```.
 
 
