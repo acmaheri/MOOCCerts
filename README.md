@@ -33,7 +33,7 @@ Thus far the certificates of the following courses with their respective learnin
 - [How to Use Git and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 - [Deep Learning](https://eu.udacity.com/course/deep-learning--ud730)
 ### On-progress
-Unlike [Cousera](https://www.coursera.org/) and [Edx](https://www.edx.org/), some of [Udacity](https://eu.udacity.com/) courses seems to have expensive taste. I wish if I would have enough time, I would be taking the following courses:-
+Unlike [Cousera](https://www.coursera.org/) and [Edx](https://www.edx.org/), some of [Udacity](https://eu.udacity.com/) courses seems to have expensive taste. If I would have enough time, I would be taking the following courses:-
  
  - [Natural Language Processing](https://eu.udacity.com/course/natural-language-processing-nanodegree--nd892) (€599) 
  - [Become A Robotics Software Engineer](https://eu.udacity.com/course/robotics-software-engineer--nd209) (€2398). 
