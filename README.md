@@ -35,9 +35,9 @@ Thus far the certificates of the following courses with their respective learnin
 ### On-progress
 Unlike [Cousera](https://www.coursera.org/) and [Edx](https://www.edx.org/), some of [Udacity](https://eu.udacity.com/) courses seems to have expensive taste. If I would have enough time, I would be taking the following courses:-
  
- - [Natural Language Processing](https://eu.udacity.com/course/natural-language-processing-nanodegree--nd892) (€599) 
  - [Become A Robotics Software Engineer](https://eu.udacity.com/course/robotics-software-engineer--nd209) (€2398). 
-
+ - [Natural Language Processing](https://eu.udacity.com/course/natural-language-processing-nanodegree--nd892) (€599) 
+ 
 The above-mentioned courses are more practical and have great contents as well, but their price tag act as a disqualifying criterion for some including myself.
 
 However, it may sound weird that I am complaining about the price, in Germany, we pay almost nothing for knowledge itself but we pay more taxes afterward when we starting using the knowledge to earn money, which makes more sense. 
