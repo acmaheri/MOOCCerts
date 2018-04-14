@@ -38,7 +38,9 @@ Unlike [Cousera](https://www.coursera.org/) and [Edx](https://www.edx.org/), som
  - [Natural Language Processing](https://eu.udacity.com/course/natural-language-processing-nanodegree--nd892) (€599) 
  - [Become A Robotics Software Engineer](https://eu.udacity.com/course/robotics-software-engineer--nd209) (€2398). 
 
-The above-mentioned courses are more practical and have great contents as well, but their price tag act as a disqualifying criterion for some including myself. However, it may sound weird that I am complaining about the price, in Germany, we pay almost nothing for knowledge itself but we pay more taxes afterward when we starting using the knowledge to earn money, which makes more sense. 
+The above-mentioned courses are more practical and have great contents as well, but their price tag act as a disqualifying criterion for some including myself.
+
+However, it may sound weird that I am complaining about the price, in Germany, we pay almost nothing for knowledge itself but we pay more taxes afterward when we starting using the knowledge to earn money, which makes more sense. 
 
 In the meantime, in case you happen to have information regarding an individual or a company or a funding organization or a foundation that is offering a sponsorship with affordable conditions (I mean with little to no strings attached) for taking up an on-line course or specialization, please contact me via ```acmaheri@outlook.com```.
 
