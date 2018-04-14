@@ -33,9 +33,9 @@ Thus far the certificates of the following courses with their respective learnin
 - [How to Use Git and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 - [Deep Learning](https://eu.udacity.com/course/deep-learning--ud730)
 ### On-progress
-[Udacity](https://eu.udacity.com/) courses seems to have expensive taste. I wish to take the follwing courses (A) [Natural Language Processing](https://eu.udacity.com/course/natural-language-processing-nanodegree--nd892) (€299) and (B) [Become A Robotics Software Engineer](https://eu.udacity.com/course/robotics-software-engineer--nd209) (€2238). 
+[Udacity](https://eu.udacity.com/) courses seems to have expensive taste. I wish to take the follwing courses (A) [Natural Language Processing](https://eu.udacity.com/course/natural-language-processing-nanodegree--nd892) (€299) and (B) [Become A Robotics Software Engineer](https://eu.udacity.com/course/robotics-software-engineer--nd209) (€2238). These courses have great content but their price tag act as a disqualifying criterion for some especially me! 
 
-These courses have great content but their price tag act as a disqualifying criterion for some especially me! If you have information regarding a company or a funding organization or a foundation which is offering a sponsorship with affordable conditions for an on-line course, please contact [me](acmaheri@outlook.com).
+If you happen to have information regarding a company or a funding organization or a foundation which is offering a sponsorship with affordable conditions for taking an on-line course, please contact [me](acmaheri@outlook.com).
 
 
 
