@@ -9,9 +9,9 @@ Thus far the certificates of the following courses with their respective learnin
 - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 ### On-progress
+- [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
 - [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing/home/assignments)
 - [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
-- [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
 - [Bayesian Statistics: Techniques and Models](https://www.coursera.org/learn/mcmc-bayesian-statistics)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) 
 - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 
