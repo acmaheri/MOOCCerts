@@ -43,6 +43,6 @@ The above-mentioned courses are more practical and have great contents as well, 
 
 However, it may sound weird that I am complaining about the price, in Germany, we pay almost nothing for knowledge itself but we pay more taxes afterward when we starting using the knowledge to earn money, which makes more sense. 
 
-In the meantime, in case you happen to have information regarding an individual or a company or a funding organization or a foundation that is offering a sponsorship with affordable conditions (I mean with little to no strings attached) for taking up an on-line course or specialization, please contact [me](https://www.facebook.com/SCHWARZSCHILD).
+In the meantime, in case you happen to have information regarding an individual or a company or a funding organization or a foundation that is offering a sponsorship with affordable conditions (I mean with little to no strings attached) for taking up an on-line course or specialization, please contact me via <acmaheri@outlook.com>.
 
 
