@@ -7,14 +7,14 @@ Thus far the certificates of the following courses with their respective learnin
 - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
 - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) 
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 
 ### On-progress
 - [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
 - [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing/home/assignments)
 - [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
 - [Bayesian Statistics: Techniques and Models](https://www.coursera.org/learn/mcmc-bayesian-statistics)
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) 
-- [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 
 - [Wind Energy](https://www.coursera.org/learn/wind-energy)
 
 
