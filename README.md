@@ -4,10 +4,10 @@ Thus far the certificates of some of the following completed courses with their 
 ## [Cousera](https://www.coursera.org/)
 ### Completed Courses
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) :star2::star::sparkles: :star2::star::sparkles: 
 - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
 - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) :star2::star::sparkles: :star2::star::sparkles: 
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 
 ### On-progress
