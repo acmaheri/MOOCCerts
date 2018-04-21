@@ -7,7 +7,7 @@ Thus far the certificates of some of the following completed courses with their 
 - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
 - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) :star2::star::sparkles: :star2::star::sparkles: 
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) [:star2::star::sparkles::star2::star::sparkles:](https://www.coursera.org/account/accomplishments/specialization/NPBX5XRDQ7BY)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 
 ### On-progress
