@@ -1,6 +1,6 @@
 # [MOOCCerts](https://github.com/acmaheri/MOOCCerts)
 The repository stores my academic certificates which are acquired from Massive Open Online Courses (MOOCs). 
-Thus far the certificates some of the following completed courses with their respective learning platform are included:-
+Thus far some certificates of the following completed courses with their respective learning platform are included:-
 ## [Cousera](https://www.coursera.org/)
 ### Completed Courses
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
