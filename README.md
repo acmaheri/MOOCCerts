@@ -35,15 +35,11 @@ Thus far some certificates of the following completed courses with their respect
 - [How to Use Git and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 - [Deep Learning](https://eu.udacity.com/course/deep-learning--ud730)
 ### On-progress
-Unlike [Cousera](https://www.coursera.org/) and [Edx](https://www.edx.org/), some of [Udacity](https://eu.udacity.com/) courses seems to have expensive taste. If I would have enough extra time to invest in learning, I would be taking the following courses:-
+Unlike [Cousera](https://www.coursera.org/) and [Edx](https://www.edx.org/), some of [Udacity](https://eu.udacity.com/) courses seems to have expensive taste. If I would have enough money as well as extra time to invest in learning, I would be taking the following courses:-
  
  - [Become A Robotics Software Engineer](https://eu.udacity.com/course/robotics-software-engineer--nd209) (€1798). 
  - [Natural Language Processing](https://eu.udacity.com/course/natural-language-processing-nanodegree--nd892) (€599) 
  
-The above-mentioned courses are more practical and have great contents as well, but their price tag act as a disqualifying criterion for some including myself.
-
-However, it may sound weird that I am complaining about the price, in Germany, we pay almost nothing for knowledge itself but we pay more taxes afterward when we are starting using the knowledge to earn money, which makes more sense. 
-
 In the meantime, in case you happen to have information regarding an individual or a company or a funding organization or a foundation that is offering a sponsorship with affordable conditions (I mean with little to no strings attached) for taking up an on-line course or specialization, please contact me via <acmaheri@outlook.com>.
 
 
