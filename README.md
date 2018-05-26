@@ -11,6 +11,7 @@ Thus far some certificates of the following completed courses with their respect
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 
 ### On-progress
+- [Introduction to FPGA Design for Embedded Systems](https://www.coursera.org/learn/intro-fpga-design-embedded-systems/home/welcome)
 - [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
 - [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing/home/assignments)
 - [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
