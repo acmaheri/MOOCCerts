@@ -37,7 +37,7 @@ Thus far some certificates of the following completed courses with their respect
 ### On-progress
 Unlike [Cousera](https://www.coursera.org/) and [Edx](https://www.edx.org/), some of [Udacity](https://eu.udacity.com/) courses seems to have expensive taste. If I would have enough money as well as extra time to invest in learning, I would be taking the following courses:-
  
- - [~Become A Robotics Software Engineer~](https://eu.udacity.com/course/robotics-software-engineer--nd209) (€1798, funding is now available, learning and experimenting is taking place, expected to finish in 8 months). 
+ - [~Become A Robotics Software Engineer~](https://eu.udacity.com/course/robotics-software-engineer--nd209) (€1798, funding is now available, learning and experimenting is taking place, expected to finish in 14 months). 
  - [Natural Language Processing](https://eu.udacity.com/course/natural-language-processing-nanodegree--nd892) (€599) 
  
 In the meantime, in case you happen to have information regarding an individual or a company or a funding organization or a foundation that is offering a sponsorship with affordable conditions (I mean with little to no strings attached) for taking up an on-line course or specialization, please contact me via <acmaheri@outlook.com>.
