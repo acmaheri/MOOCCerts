@@ -37,7 +37,7 @@ Thus far some certificates of the following completed courses with their respect
 - [Deep Learning](https://eu.udacity.com/course/deep-learning--ud730)
 ### On-progress
 Unlike [Cousera](https://www.coursera.org/) and [Edx](https://www.edx.org/), some of [Udacity](https://eu.udacity.com/) courses seems to have expensive taste. If I would have enough money as well as extra time to invest in learning, I would be taking the following courses:-
-  - [~Become a Sensor Fusion Engineer~](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313) (€928, funding is now available). 
+  - [Become a Sensor Fusion Engineer](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313) (€928, funding is now available). 
  - [Become A Robotics Software Engineer](https://eu.udacity.com/course/robotics-software-engineer--nd209) (€1798, funding is now available, on-hold).
  - [Natural Language Processing](https://eu.udacity.com/course/natural-language-processing-nanodegree--nd892) (€599,  on-hold) 
  
