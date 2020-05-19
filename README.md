@@ -10,6 +10,7 @@ Thus far some certificates of the following completed courses with their respect
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) [:star2::star::sparkles::star2::star::sparkles:](https://www.coursera.org/account/accomplishments/specialization/NPBX5XRDQ7BY)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 
+- [Self-Driving Cars Specialization](https://www.coursera.org/lecture/intro-self-driving-cars/welcome-to-the-self-driving-cars-specialization-9l23h) 
 ### On-progress
 - [Introduction to FPGA Design for Embedded Systems](https://www.coursera.org/learn/intro-fpga-design-embedded-systems/home/welcome)
 - [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
@@ -36,8 +37,8 @@ Thus far some certificates of the following completed courses with their respect
 - [Deep Learning](https://eu.udacity.com/course/deep-learning--ud730)
 ### On-progress
 Unlike [Cousera](https://www.coursera.org/) and [Edx](https://www.edx.org/), some of [Udacity](https://eu.udacity.com/) courses seems to have expensive taste. If I would have enough money as well as extra time to invest in learning, I would be taking the following courses:-
- 
- - [~Become A Robotics Software Engineer~](https://eu.udacity.com/course/robotics-software-engineer--nd209) (€1798, funding is now available, learning and experimenting is taking place, expected to finish in 14 months). 
+  - [~Become a Sensor Fusion Engineer~](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313) (€928, funding is now available). 
+ - [~Become A Robotics Software Engineer~](https://eu.udacity.com/course/robotics-software-engineer--nd209) (€1798, funding is now available). 
  - [Natural Language Processing](https://eu.udacity.com/course/natural-language-processing-nanodegree--nd892) (€599) 
  
 In the meantime, in case you happen to have information regarding an individual or a company or a funding organization or a foundation that is offering a sponsorship with affordable conditions (I mean with little to no strings attached) for taking up an on-line course or specialization, please contact me via <acmaheri@outlook.com>.
