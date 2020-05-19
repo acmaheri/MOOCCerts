@@ -11,7 +11,7 @@ Thus far some certificates of the following completed courses with their respect
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 
 - [Self-Driving Cars Specialization](https://www.coursera.org/lecture/intro-self-driving-cars/welcome-to-the-self-driving-cars-specialization-9l23h) 
-### On-progress
+### On-hold
 - [Introduction to FPGA Design for Embedded Systems](https://www.coursera.org/learn/intro-fpga-design-embedded-systems/home/welcome)
 - [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
 - [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing/home/assignments)
@@ -26,7 +26,7 @@ Thus far some certificates of the following completed courses with their respect
 - [Writing Scientific Papers and Making Presentations in English](https://courses.edx.org/courses/course-v1:TsinghuaX+60250101+1T2017/course/)
 - [Using Python for Research](https://courses.edx.org/courses/course-v1:HarvardX+PH526x+3T2016/course/)
 - [Intro to Aerodynamics](https://courses.edx.org/courses/course-v1:MITx+16.101x_2+3T2015/course/)
-### On-progress
+### On-hold
 - [Introduction to Computational Thinking and Data Science](https://courses.edx.org/courses/course-v1:MITx+6.00.2x_4+3T2015/course/)
 - [Software Construction: Object Oriented Design](https://courses.edx.org/courses/course-v1:UBCx+SoftConst2x+3T2017/course/)
 
