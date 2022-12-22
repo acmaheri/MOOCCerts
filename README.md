@@ -1,6 +1,14 @@
-# [MOOCCerts](https://github.com/acmaheri/MOOCCerts)
-The repository stores my academic certificates which are acquired from Massive Open Online Courses (MOOCs). 
+# [Certs](https://github.com/acmaheri/MOOCCerts)
+The repository contains my academic certificates which are acquired from Training courses as well as Massive Open Online Courses (MOOCs). 
 Thus far some certificates of the following completed courses with their respective learning platform are included:-
+## [Elektrobit](https://www.elektrobit.com/)
+### Completed Courses
+- [EB Assist ADTF 3 user training](https://www.elektrobit.com/trainings/eb-assist-adtf-3-user-training/)
+- [EB Assist ADTF 3 developer training](https://www.elektrobit.com/trainings/eb-assist-adtf-3-developer-training/)
+### On-hold
+- [Adaptive AUTOSAR training EB corbos](https://www.elektrobit.com/trainings/eb-corbos-adaptive-autosar-training/)
+- [EB tresos Automotive Ethernet Training](https://www.elektrobit.com/trainings/eb-tresos-automotive-ethernet-training/)
+
 ## [Cousera](https://www.coursera.org/)
 ### Completed Courses
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
